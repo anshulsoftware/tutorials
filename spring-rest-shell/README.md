@@ -1,5 +1,7 @@
-## Spring REST Shell Project
+## Spring REST Shell
+
+This module contains articles about Spring REST Shell
 
 ### Relevant Articles
 
-- [Spring REST Shell](http://www.baeldung.com/<ARTICLE_URI>)
+- [Introduction to Spring REST Shell](http://www.baeldung.com/spring-rest-shell)
